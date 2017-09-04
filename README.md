@@ -1,7 +1,7 @@
 # Personalized-medecine-redefining-cancer-treatment
 Predict the effect of Genetic Variants to enable Personalized Medicine
 
-Files required :
+1 - Files required :
 ________________
 The two next files are located in the repository that the notebook :
 test_variants
@@ -14,7 +14,7 @@ training_text
 test_text
 
 
-Libraries:
+2 - Libraries:
 __________
 To do it the main libraries required are numpy, pandas, matplotlib, seaborn.
 
