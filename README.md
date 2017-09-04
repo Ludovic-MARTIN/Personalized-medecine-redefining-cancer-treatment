@@ -2,6 +2,16 @@
 Predict the effect of Genetic Variants to enable Personalized Medicine
 
 Files required :
+________________
+The two next files are located in the repository that the notebook :
+test_variants
+training_variants
+
+The two following files are too heavy to be recorded on github, you can dowload them form this URL : 
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
+
+training_text
+test_text
 
 
 Libraries:
